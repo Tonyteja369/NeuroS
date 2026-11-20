@@ -1,5 +1,5 @@
 
-# NEUROSENSE-X
+# NEUROS
 
 ### Cranial Mechanical Resonance Mapping (CMRM)
 
